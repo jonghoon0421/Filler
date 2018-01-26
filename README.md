@@ -1,6 +1,6 @@
 # Filler
 **To install:**\
-* `git clone https://github.com/jonghoon0421/Filler.git`\
+* `git clone https://github.com/jonghoon0421/Filler.git`
 * `make`\
 
 **To execute:**\
