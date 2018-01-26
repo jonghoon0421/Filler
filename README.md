@@ -4,7 +4,7 @@
 * `make`
 
 **To execute:**
-* `Usage: ./filler_vm -f path [-i | -p1 path | -p2 path] [-s | -q | -t time]`
+* `Usage: ./filler_vm -f [map] [-i | -p1 [player1.filler] | -p2 [player2.filler]] [-s | -q | -t time]`
 
   * `-t		| --time		|	set timeout in second`
   * `-q		| --quiet		|	quiet mode`
